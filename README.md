@@ -1,1 +1,3 @@
-# Git Homework Repository\nThis repository contains the project files for Git homework.
+# Git Homework Repository
+
+This repository contains the project files for Git homework.
