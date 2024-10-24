@@ -1,1 +1,2 @@
-# Contributing\nPlease follow the standard guidelines for contributions.
+# Contributing
+Please follow the standard guidelines for contributions.
